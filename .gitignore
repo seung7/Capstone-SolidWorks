@@ -1,5 +1,5 @@
 #Console
-console.txt
+*.log
 
 #Office Temp Files
 ~$*
