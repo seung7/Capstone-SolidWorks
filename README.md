@@ -1,6 +1,6 @@
 # SolidWorks for Capstone Project
-## Goal:
-Our Capstone project requires a enclosure that can hold all nesseary component. 
+## Goal
+Our Capstone project requires a enclosure that can hold all nesseary components. 
 The design has multiple floors where each floors can be assembled by M5 Screws.
 Floor1: Battery
 Floor2: mangOH Yellow IoT Board, PMS(Power Management System) Circuit
@@ -14,4 +14,8 @@ the user can simply detach the 1st floor.
 3. Compack size: by adapting the modular desgin, rather than having a one floor that is 30cm by 30cm, this design has the base of 14.3cm by 19cm.
 4. Better cable managements.
 
+<p align="middle">
+  <img src="Images/Isometric View.jpg"  width="610" />
+  <img src="Images/Exploded View.jpg" width="340" /> 
+</p>
 
