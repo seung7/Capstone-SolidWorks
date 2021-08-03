@@ -1,0 +1,5 @@
+#Console
+*.log
+
+#Office Temp Files
+~$*
