@@ -40,15 +40,16 @@ The original design had a 1cm wall thickness, which required 790g of PLA filamen
 
 ### Minimized the Support Material.
 FDM printing requires 'support material' in areas where there's nothing underneath. My previous design, where oval vents are horizontal, requires supporting material for each vent. 
-<p align="middle">
-  <img src="Images/Previous Vents Design.jpg"  width="400" />
-  <em>"Vents Design that requires support material" </em>
+
+<p align="left">
+  <img src="Images/Previous Vents Design.jpg"  width="300" />
+  <em> [Vents design that requires support material] </em>
 </p>
 
 This support material can be eliminated by orienting the ovals upright. My new design has updated accordingly.
-<p align="middle">
-  <img src="Images/Current Vents Design.jpg"  width="400" />
-  <em>"Vents Design that doesn't require support material" </em>
+<p align="left">
+  <img src="Images/Current Vents Design.jpg"  width="300" />
+  <em> [Vents design that doesn't require support material] </em>
 </p>
 
 As I don't need to remove the support material after it printed, the desgin will have cleaner surface finish, and some reduction in the cost as well.
