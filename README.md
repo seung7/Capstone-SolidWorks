@@ -32,11 +32,26 @@ the user can simply detach the 1st floor.
 3. Compack size: by adapting the modular desgin, rather than having a one floor that is 30cm by 30cm, the design has the smaller dimension.
 4. Better cable managements.
 
+### Great Airflow 
+Controlling temperature of each floor is nessary as the Raspberry Pi and the battery can be easily heated up, and can effect the temperature sensor of mangOH. To lower the temperature, each floor has multiple holes on its front and back. Through these holes, outside air can flows in and out easily. Also any of the hole can be used as a port that outside power supply cable can go through. In addition, on the 3rd floor where Raspberry Pi resides, an fan can be attached on the celling to cool down the Raspberry Pi even more. 
+
 ### Thin, Light Weight, yet Sturdy
 The original design had a 1cm wall thickness, which required 790g of PLA filament to be printed. To reduce the cost for printing, the new design has made with the wall thickness of 2.5mm. Typically, a single thread is 200um. Therefore 2.5mm thichkness is made of 12.5 threads, which give strong support. All the side walls and the bottom/top floors have the thickness of 2.5mm. 
 
-### Great Airflow 
-Controlling temperature of each floor is nessary as the Raspberry Pi and the battery can be easily heated up, and can effect the temperature sensor of mangOH. To lower the temperature, each floor has multiple holes on its front and back. Through these holes, outside air can flows in and out easily. Also any of the hole can be used as a port that outside power supply cable can go through. In addition, on the 3rd floor where Raspberry Pi resides, an fan can be attached on the celling to cool down the Raspberry Pi even more. 
+### Minimized the Support Material.
+FDM printing requires 'support material' in areas where there's nothing underneath. My previous design, where oval vents are horizontal, requires supporting material for each vent. 
+<p align="middle">
+  <img src="Images/Previous Vents Design.jpg"  width="400" />
+  <em>"Vents Design that requires support material" </em>
+</p>
+
+This support material can be eliminated by orienting the ovals upright. My new design has updated accordingly.
+<p align="middle">
+  <img src="Images/Current Vents Design.jpg"  width="400" />
+  <em>"Vents Design that doesn't require support material" </em>
+</p>
+
+As I don't need to remove the support material after it printed, the desgin will have cleaner surface finish, and some reduction in the cost as well.
 
 ## Images
 <p align="middle">
