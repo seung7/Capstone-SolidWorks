@@ -45,5 +45,3 @@ Controlling temperature of each floor is nessary as the Raspberry Pi and the bat
 <p align="middle">
   <img src="Images/Exploded View.jpg" width="400" /> 
 </p>
-
-
