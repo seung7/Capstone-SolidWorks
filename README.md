@@ -55,6 +55,7 @@ This support material can be eliminated by orienting the ovals upright. My new d
 As I don't need to remove the support material after it printed, the desgin will have cleaner surface finish, and some reduction in the cost as well.
 
 ## Images
+### 3D Models
 <p align="middle">
   <img src="Images/Isometric View.jpg"  width="400" />
 </p>
@@ -62,12 +63,12 @@ As I don't need to remove the support material after it printed, the desgin will
   <img src="Images/Exploded View.jpg" width="400" /> 
 </p>
 
-# Final Product
-You can see more images in 'image' file
+### Printed Models
+You can detailed images of each floor in 'image' file
 <p align="middle">
-  <img src="Images/Printed_Front.jpg"  width="400" />
+  <img src="Images/Printed_Front.JPG"  width="400" />
 </p>
 <p align="middle">
-  <img src="Images/Printed_Back.jpg" width="400" /> 
+  <img src="Images/Printed_Back.JPG" width="400" /> 
 </p>
 
