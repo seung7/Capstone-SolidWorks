@@ -60,3 +60,12 @@ As I don't need to remove the support material after it printed, the desgin will
 <p align="middle">
   <img src="Images/Exploded View.jpg" width="400" /> 
 </p>
+
+# Final Product
+You can see more images in 'image' file
+<p align="middle">
+  <img src="Printed_Front.jpg"  width="400" />
+</p>
+<p align="middle">
+  <img src="Printed_Back.jpg" width="400" /> 
+</p>
