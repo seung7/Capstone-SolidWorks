@@ -64,7 +64,7 @@ As I don't need to remove the support material after it printed, the desgin will
 </p>
 
 ### Printed Models
-You can detailed images of each floor in 'image' file
+You can see inner desgin of each floor in the 'Images' file
 <p align="middle">
   <img src="Images/Printed_Front.JPG"  width="400" />
 </p>
